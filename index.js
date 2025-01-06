@@ -1,10 +1,12 @@
-const jsonServer = require("json-server"); // importing json-server library
+const jsonServer = require('json-server');
 const server = jsonServer.create();
-const router = jsonServer.router("db.json");
+const router = jsonServer.router('db.json'); // db.json ফাইলটি একই ফোল্ডারে থাকতে হবে
 const middlewares = jsonServer.defaults();
-const port = process.env.PORT || 8080; //  chose port from here like 8080, 3001
 
 server.use(middlewares);
 server.use(router);
 
-server.listen(port);
+const PORT = process.env.PORT || 3000; // সার্ভার 3000 পোর্টে চলবে
+server.listen(PORT, () => {
+  console.log(`JSON Server is running on port ${PORT}`);
+});
