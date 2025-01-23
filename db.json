@@ -8,7 +8,7 @@
             "rating": 4.2,
             "minTime": 30,
             "maxTime": 40,
-            "name": "Pizzas",
+            "category": "Pizzas",
             "place": "New Jodhpur"
         },
         {   "id": 2,
@@ -19,7 +19,7 @@
             "rating": 4.5,
             "minTime": 35,
             "maxTime": 40,
-            "name": "Sweets,South Indian",
+            "category": "Sweets,South Indian",
             "place": "Shastri Nagar"
         },
         {  
@@ -31,7 +31,7 @@
             "rating": 4.3,
             "minTime": 35,
             "maxTime": 40,
-            "name": "North India, Thalis",
+            "category": "North India, Thalis",
             "place": "Sardarpura"
         },
         {
@@ -43,7 +43,7 @@
             "rating": 4.5,
             "minTime": 25,
             "maxTime": 25,
-            "name": "Desserts,Ice Cream",
+            "category": "Desserts,Ice Cream",
             "place": "Chopsani Housing Board"
         },
         {
@@ -55,7 +55,7 @@
             "rating": 4.4,
             "minTime": 30,
             "maxTime": 35,
-            "name": "Biryani, North India",
+            "category": "Biryani, North India",
             "place": "Shastri Nagar"
         },
         {
@@ -67,7 +67,7 @@
             "rating": 4.7,
             "minTime": 25,
             "maxTime": 30,
-            "name": "Desserts,Ice Cream",
+            "category": "Desserts,Ice Cream",
             "place": "Sardarpura"
         },
         {
@@ -79,7 +79,7 @@
             "rating": 4.0,
             "minTime": 35,
             "maxTime": 40,
-            "name": "South Indian",
+            "category": "South Indian",
             "place": "Chopsani Housing Board"
         },
         {
@@ -91,7 +91,7 @@
             "rating": 4.3,
             "minTime": 30,
             "maxTime": 35,
-            "name": "Biryani, North India",
+            "category": "Biryani, North India",
             "place": "Shastri Nagar"
         },
         {
@@ -103,7 +103,7 @@
             "rating": 4.4,
             "minTime": 30,
             "maxTime": 35,
-            "name": "American",
+            "category": "American",
             "place": "Rawaton Ka Bass"
         },
         {
@@ -115,7 +115,7 @@
             "rating": 4.5,
             "minTime": 35,
             "maxTime": 40,
-            "name": "Cake",
+            "category": "Cake",
             "place": "Chopsani Housing Board"
         },
         {
@@ -127,7 +127,7 @@
             "rating": 4.3,
             "minTime": 30,
             "maxTime": 40,
-            "name": "Burger",
+            "category": "Burger",
             "place": "Bonani, Dhaka"
         },
         {
@@ -139,7 +139,7 @@
             "rating": 4.5,
             "minTime": 30,
             "maxTime": 45,
-            "name": "Burger",
+            "category": "Burger",
             "place": "Bonani, Dhaka"
         },
         {
@@ -151,7 +151,7 @@
             "rating": 4.4,
             "minTime": 30,
             "maxTime": 45,
-            "name": "Burger",
+            "category": "Burger",
             "place": " Dhaka"
         },
         {
@@ -163,7 +163,7 @@
             "rating": 3.9,
             "minTime": 35,
             "maxTime": 45,
-            "name": "Burger",
+            "category": "Burger",
             "place": " Delta 1, Greater Noida"
         },
         {
@@ -175,7 +175,7 @@
             "rating": 3.4,
             "minTime": 67,
             "maxTime": 45,
-            "name": "Burger",
+            "category": "Burger",
             "place": "Shahdara, Noida"
         },
         {
@@ -187,7 +187,7 @@
             "rating": 3.9,
             "minTime": 67,
             "maxTime": 45,
-            "name": "Burger",
+            "category": "Burger",
             "place": "Shahdara, Noida"
         },
         {
@@ -199,7 +199,7 @@
             "rating": 4.1,
             "minTime": 67,
             "maxTime": 45,
-            "name": "Noodles",
+            "category": "Noodles",
             "place": "Shahdara, Noida"
         },
         {
@@ -211,7 +211,7 @@
             "rating": 4.2,
             "minTime": 67,
             "maxTime": 45,
-            "name": "Noodles",
+            "category": "Noodles",
             "place": "Shahdara, Noida"
         },
         {
@@ -223,7 +223,7 @@
             "rating": 4.2,
             "minTime": 67,
             "maxTime": 45,
-            "name": "Noodles",
+            "category": "Noodles",
             "place": "Shahdara, Noida"
         },
         {
@@ -235,7 +235,7 @@
             "rating": 3.8,
             "minTime": 46,
             "maxTime": 45,
-            "name": "Noodles",
+            "category": "Noodles",
             "place": "Shahdara, Noida"
         },
         {
@@ -247,7 +247,7 @@
             "rating": 3.8,
             "minTime": 46,
             "maxTime": 45,
-            "name": "Biryani",
+            "category": "Biryani",
             "place": "Shahdara, Noida"
         },
         {
@@ -259,7 +259,7 @@
             "rating": 3.9,
             "minTime": 46,
             "maxTime": 45,
-            "name": "Biryani",
+            "category": "Biryani",
             "place": "North Indian, Mughlai, Biryani, Momos, Chinese"
         },
         {
@@ -271,7 +271,7 @@
             "rating": 4.0,
             "minTime": 46,
             "maxTime": 45,
-            "name": "Biryani",
+            "category": "Biryani",
             "place": "North Indian, Mughlai, Biryani, Momos, Chinese"
         },
         {
@@ -283,7 +283,7 @@
             "rating": 4.1,
             "minTime": 46,
             "maxTime": 45,
-            "name": "Biryani",
+            "category": "Biryani",
             "place": "North Indian, Biryani"
         },
         {
@@ -295,8 +295,113 @@
             "rating": 4.1,
             "minTime": 46,
             "maxTime": 45,
-            "name": "Cakes",
+            "category": "Cakes",
             "place": "North Indian, Biryani"
+        },
+        {
+            
+             "categoryItem" : [
+                     {
+                         "id": 1,
+                         "image": "images/North_Indian_4.jpeg",
+                         "path": "north_indian"
+                     },
+                     {
+                         "id": 2,
+                         "image": "images/Pizza.jpeg",
+                         "path": "pizza"
+                     },
+                     {
+                         "id": 3,
+                         "image": "images/Noodles.jpeg",
+                         "path": "noodles"
+                     },
+                     {
+                         "id": 4,
+                         "image": "images/Pasta.jpeg",
+                         "path": "pasta"
+                     },
+                     {
+                         "id": 5,
+                         "image": "images/Paratha.jpeg",
+                         "path": "paratha"
+                     },
+                     {
+                         "id": 6,
+                         "image": "images/Biryani_2.jpeg",
+                         "path": "biryani"
+                     },
+                     {
+                         "id": 7,
+                         "image": "images/Burger.jpeg",
+                         "path": "burger"
+                     },
+                     {
+                         "id": 8,
+                         "image": "images/Cakes.jpeg",
+                         "path": "cakes"
+                     },
+                     {
+                         "id": 9,
+                         "image": "images/Chinese.jpeg",
+                         "path": "chinese"
+                     },
+                     {
+                         "id": 10,
+                         "image": "images/Chole_Bature.jpeg",
+                         "path": "chole_bature"
+                     },
+                     {
+                         "id": 11,
+                         "image": "images/Dosa.jpeg",
+                         "path": "dosa"
+                     },
+                     {
+                         "id": 12,
+                         "image": "images/Gulab_Jamun.jpeg",
+                         "path": "gulab_jamun"
+                     },
+                     {
+                         "id": 13,
+                         "image": "images/Ice_Creams.jpeg",
+                         "path": "ice-creams"
+                     },
+                     {
+                         "id": 14,
+                         "image": "images/Idli.jpeg",
+                         "path": "idli"
+                     },
+                     {
+                         "id": 15,
+                         "image": "images/Khichdi.jpeg",
+                         "path": "khichdi"
+                     },
+                     {
+                         "id": 16,
+                         "image": "images/Poori.jpeg",
+                         "path": "poori"
+                     },
+                     {
+                         "id": 17,
+                         "image": "images/Pure_Veg.jpeg",
+                         "path": "pure_veg"
+                     },
+                     {
+                         "id": 18,
+                         "image": "images/Rolls.jpeg",
+                         "path": "rolls"
+                     },
+                     {
+                         "id": 19,
+                         "image": "images/Salad.jpeg",
+                         "path": "salad"
+                     },
+                     {
+                         "id": 20,
+                         "image": "images/South_Indian_4.jpeg",
+                         "path": "south_indian"
+                     }
+                ]
         }
 
     ] 
